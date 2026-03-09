@@ -42,7 +42,10 @@ Comprehensive test suite covering critical paths:
 
 Detailed API documentation, including request/response examples and authentication details, can be found here:
 
-👉 **[Postman API Documentation](رابط_الدكومنتيشن_هنا)** ---
+👉 **[https://ziad-hany.docs.buildwithfern.com/inventory-management-system-task/inventory/get-warehouses-warehouse-id-inventory]** ---
+
+Postman Documentation
+👉 **[https://documenter.getpostman.com/view/43110145/2sBXcLhdUt]** ---
 
 ## 🛠️ Installation & Setup
 
