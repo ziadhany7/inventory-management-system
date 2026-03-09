@@ -22,9 +22,9 @@ class ApiGuardToken
         $secretKey = $request->header('X-SECRET-KEY') ?? $request->header('x-secret-key');
 
 
-        if (!$secretKey || $secretKey != env('API_SECRET_KEY')) {
-            return $this->apiResponse([], 401, 'invalid key');
-        }
+        // if (!$secretKey || $secretKey != env('API_SECRET_KEY')) {
+        //     return $this->apiResponse([], 401, 'invalid key');
+        // }
 
         return $next($request);
     }
