@@ -74,15 +74,16 @@ To verify that all components are functioning correctly, run the following comma
     php artisan test
     # Current Status: 5 Passing Tests (6 Assertions).
 
-📝 Logging & Monitoring
+**📝 Logging & Monitoring**
 Low stock alerts are handled by a queued Listener. You can find the logs at:
     ```bash
     storage/logs/laravel.log
     ```
-👨‍💻 About the Developer
-Ziad Hany Wadea - Senior Backend Developer
-(ziadhanyimportant1@gmail.com)
+**👨‍💻 About the Developer**
+**Ziad Hany Wadea - Senior Backend Developer**
+**(ziadhanyimportant1@gmail.com)**
 
 I specialize in building high-performance web applications and scalable API architectures. You can view my full professional background and experience here:
 
-📄 View My Curriculum Vitae (CV) (https://drive.google.com/file/d/1RllBe9JJl5YZM9aHG6IMtIYXART1Npo6/view?usp=drive_link)
+**📄 View My Curriculum Vitae (CV)**
+(https://drive.google.com/file/d/1RllBe9JJl5YZM9aHG6IMtIYXART1Npo6/view?usp=drive_link)
